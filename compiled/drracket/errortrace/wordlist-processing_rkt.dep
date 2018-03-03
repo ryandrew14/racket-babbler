@@ -1,0 +1,1 @@
+("6.10.1" ("f402d4abd040118b82b578447c629f5f07e12409" . "e738457af539c6b4bfea37f29da3ef77e96ee394") #"/Users/ryandrew/Github/Projects/racket-babbler/words-from-file.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"math" #"matrix.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt"))

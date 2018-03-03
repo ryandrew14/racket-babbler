@@ -1,0 +1,1 @@
+("6.10.1" ("f0036202fa8b6def876aa679bb7b18aa84469f8a" . "e25e71d1da9759afb03ba5869cffc3c32934e833") (collects #"2htdp" #"batch-io.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
