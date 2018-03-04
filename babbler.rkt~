@@ -1,7 +1,0 @@
-#lang racket
-
-(require "words-from-file.rkt"
-         math/matrix)
-
-;; [Listof String] -> String
-;; markov babbler
